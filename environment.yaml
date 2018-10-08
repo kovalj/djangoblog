@@ -21,6 +21,8 @@ dependencies:
   - zlib=1.2.11=ha838bed_2
   - pip:
     - django==2.1.1
+    - django-crispy-forms==1.7.2
+    - pillow==5.3.0
     - pytz==2018.5
 prefix: /home/yurii/anaconda3/envs/djangoblog
 
